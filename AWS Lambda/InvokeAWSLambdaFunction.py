@@ -5,8 +5,8 @@ import urllib.parse
 # Create a client for the AWS Lambda service
 lambda_client = boto3.client(
     'lambda',
-    aws_access_key_id='AKIAROUC5Z7H4445TBED',
-    aws_secret_access_key='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',
+    aws_access_key_id='',
+    aws_secret_access_key='',
     region_name='us-east-1'
 )
 
